@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>BackToTop</title>
+  <style type="text/css">
+	body{min-height:1000px;}.back_to_top{outline:none;padding:1rem;background:#ddd;color:purple;
+	display:none;position:fixed;bottom:2rem;right:2rem;}
+  </style>	
+ </head>
+ <body>
+	<button class="back_to_top">BackToTop</button>
+	<script src="http://apps.bdimg.com/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script type="text/javascript" src="backtotop.js"></script>
+ </body>
+</html>
