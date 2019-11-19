@@ -11,6 +11,7 @@ function throttle(handle,delay){
         }
     }
 }
+
 //防抖延迟执行
 function debounce(handle, delay) {
     var timeout = null
@@ -23,6 +24,7 @@ function debounce(handle, delay) {
         },delay)
     }
 }
+
 //防抖立即执行
 function debounce(handle, await) {
     let timeout
