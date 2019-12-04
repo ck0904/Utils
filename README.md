@@ -1,2 +1,2 @@
-# backtotop
-A simple back to top jquery method
+# Utils
+some Utils for usual coding!
