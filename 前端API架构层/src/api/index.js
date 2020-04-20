@@ -43,7 +43,7 @@ export function tryHideFullScreenLoading() {
 
 let service = axios.create({
   timeout: 600000,
-  baseURL: process.env.BASE_API
+  baseURL: process.env.API_ROOT
 })
 
 // 添加请求拦截器
