@@ -1,0 +1,34 @@
+{
+    "success": true,
+    "result": {
+        "pageNo": 1,
+        "pageSize": 10,
+        "total": 2,
+        "list": [
+            {
+                "id": 1,
+                "createTime": "2019-11-19 12:53:05",
+                "updateTime": "2019-12-03 09:53:41",
+                "name": "管理员",
+                "code": "管理员",
+                "description": "一个拥有部分权限的管理员角色",
+                "sort": 1,
+                "menuIds": "789,2,55,983,54",
+                "menuNames": "数据字典, 后台, 账户信息, 修改密码, 账户中心"
+            },
+            {
+                "id": 2,
+                "createTime": "2019-11-27 17:18:54",
+                "updateTime": "2019-12-01 19:14:30",
+                "name": "前台测试",
+                "code": "前台测试",
+                "description": "一个拥有部分权限的前台测试角色",
+                "sort": 2,
+                "menuIds": "15,4,1",
+                "menuNames": "油耗统计, 车联网, 物联网监管系统"
+            }
+        ]
+    },
+    "message": "请求成功",
+    "code": 0
+}
